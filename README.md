@@ -44,7 +44,9 @@
        <input type="checkbox" id="dsa"><label for="dsa">DSA</label></p>
     <p><label for="branch">Branch:</label>
        <select id="branch" name="branch">
-         <option>BCSAI &nbsp;&nbsp;B.TechAI</option>
+         <option>BCA</option>
+         &nbsp;&nbsp;
+         <option>B.Tech</option>
        </select></p>
     <p><label for="msg">Why do you want to join?</label><br>
        <textarea id="msg" rows="3" cols="30"></textarea></p>
